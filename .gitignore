@@ -1,3 +1,5 @@
+#Ignore deployment files
+files/
 # Local .terraform directories
 **/.terraform/*
 
